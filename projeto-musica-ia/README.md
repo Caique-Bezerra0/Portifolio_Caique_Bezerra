@@ -30,7 +30,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
-2. **Prompt Engineering:** Configuração das instruções do Gems para[Benzo Chase.mp3](https://github.com/user-attachments/files/27614479/Benzo.Chase.mp3)
+2. **Prompt Engineering:** Configuração das instruções do Gems para
  mimetizar o vocabulário e a métrica.
 3. **Produção:** Geração das letras e posterior conversão em áudio no Suno AI, ajustando parâmetros de gênero musical e BPM.
  
