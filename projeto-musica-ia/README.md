@@ -1,3 +1,4 @@
+[Benzo Chase.mp3](https://github.com/user-attachments/files/27614452/Benzo.Chase.mp3)
 # 🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
  
 ![GitHub language count](https://img.shields.io/github/languages/count/[SEU_USUARIO]/projeto-musica-ia?style=for-the-badge)
@@ -20,14 +21,15 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
 | 01 | Red Light Jewelry | Trap/Rap | [Arquivo MP3](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/blob/28904ab420bc11f78466b3d1a637fe3aed09c60c/projeto-musica-ia/M%C3%BAsica%201_%20Red%20Light%20Jewelry/Red%20Light%20Jewelry.mp3) |
-| 02 | Static Phase | Trap/Rap | [Arquivo MP3](./audio/musica2.mp3) |
-| 03 | G-Wagen | Trap/Eletrônica | [Arquivo MP3](./audio/musica3.mp3) |
+| 02 | Static Phase | Trap/Rap | [Arquivo MP3](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/blob/53b4596f33e3f5abe42a6c8275896a6f4432fab8/projeto-musica-ia/M%C3%BAsica%202_%20Static%20Phase/Static%20Phase.mp3) |
+| 03 | G-Wagen | Trap/Eletrônica | [Arquivo MP3](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/blob/53b4596f33e3f5abe42a6c8275896a6f4432fab8/projeto-musica-ia/M%C3%BAsica%203_%20G-Wagen/G-Wagen.mp3) |
 | 04 | Benzo Chase | Trap/Rap | [Arquivo MP3](./audio/musica4.mp3) |
 | 05 | Crack Skylight | Trap | [Arquivo MP3](./audio/musica5.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
-2. **Prompt Engineering:** Configuração das instruções do Gems para mimetizar o vocabulário e a métrica.
+2. **Prompt Engineering:** Configuração das instruções do Gems para[Benzo Chase.mp3](https://github.com/user-attachments/files/27614479/Benzo.Chase.mp3)
+ mimetizar o vocabulário e a métrica.
 3. **Produção:** Geração das letras e posterior conversão em áudio no Suno AI, ajustando parâmetros de gênero musical e BPM.
  
 ---
