@@ -19,11 +19,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Red Light Jewelry] | [Trap/Rap] | [Arquivo MP3](./audio/musica1.mp3) |
-| 02 | [Static Phase] | [Trap/Rap] | [Arquivo MP3](./audio/musica2.mp3) |
-| 03 | [G-Wagen] | [Trap/Eletrônica] | [Arquivo MP3](./audio/musica3.mp3) |
-| 04 | [Benzo Chase] | [Trap/Rap] | [Arquivo MP3](./audio/musica4.mp3) |
-| 05 | [Crack Skylight] | [Trap] | [Arquivo MP3](./audio/musica5.mp3) |
+| 01 | Red Light Jewelry | Trap/Rap | [Arquivo MP3](./audio/musica1.mp3) |
+| 02 | Static Phase | Trap/Rap | [Arquivo MP3](./audio/musica2.mp3) |
+| 03 | G-Wagen | Trap/Eletrônica | [Arquivo MP3](./audio/musica3.mp3) |
+| 04 | Benzo Chase | Trap/Rap | [Arquivo MP3](./audio/musica4.mp3) |
+| 05 | Crack Skylight | Trap | [Arquivo MP3](./audio/musica5.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
